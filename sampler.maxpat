@@ -59,7 +59,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 313.0, 544.0, 286.0, 49.0 ],
 					"style" : "",
-					"text" : "open \"Macintosh HD:/Users/michaelzhang/Box Sync/Academics/Sophomore/Independent Study/Max Projects/Sampler/snd13.aiff\""
+					"text" : "open \"Macintosh HD:/Users/michaelzhang/Box Sync/Academics/Sophomore/Independent Study/Max Projects/Sampler/snd4.aif\""
 				}
 
 			}
@@ -284,28 +284,28 @@
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-7",
-									"linecount" : 29,
+									"linecount" : 28,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 401.0, 587.0, 35.0, 397.0 ],
 									"style" : "",
-									"text" : "\"Macintosh HD:/Users/michaelzhang/Box Sync/Academics/Sophomore/Independent Study/Max Projects/Sampler/snd13.aiff\""
+									"text" : "\"Macintosh HD:/Users/michaelzhang/Box Sync/Academics/Sophomore/Independent Study/Max Projects/Sampler/snd4.aif\""
 								}
 
 							}
 , 							{
 								"box" : 								{
 									"id" : "obj-5",
-									"linecount" : 18,
+									"linecount" : 17,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 281.0, 758.0, 58.0, 250.0 ],
 									"style" : "",
-									"text" : "open \"Macintosh HD:/Users/michaelzhang/Box Sync/Academics/Sophomore/Independent Study/Max Projects/Sampler/snd13.aiff\""
+									"text" : "open \"Macintosh HD:/Users/michaelzhang/Box Sync/Academics/Sophomore/Independent Study/Max Projects/Sampler/snd4.aif\""
 								}
 
 							}
@@ -413,7 +413,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 575.0, 50.0, 35.0 ],
 									"style" : "",
-									"text" : "snd13.aiff"
+									"text" : "snd4.aif"
 								}
 
 							}
@@ -1072,6 +1072,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-9",
@@ -2207,13 +2208,15 @@
 										"basictuning" : 440,
 										"followglobaltempo" : 0,
 										"formantcorrection" : 0,
-										"loopend" : [ 2603.0, "ms" ],
-										"loopstart" : [ 38.0, "ms" ],
+										"loopend" : [ 4509.0, "ms" ],
+										"loopstart" : [ 1576.0, "ms" ],
 										"mode" : "basic",
 										"originallength" : [ 4606.081055, "ticks" ],
 										"originaltempo" : 83.965019,
 										"phase" : [ 0.0, "ticks" ],
 										"pitchcorrection" : 0,
+										"pitchshift" : [ 1.189207 ],
+										"pitchshiftcent" : [ 300 ],
 										"quality" : "basic",
 										"timestretch" : [ 1 ]
 									}
@@ -2434,7 +2437,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-37", 0 ],
+									"destination" : [ "obj-8", 0 ],
 									"source" : [ "obj-48", 0 ]
 								}
 
@@ -2480,6 +2483,13 @@
 								"patchline" : 								{
 									"destination" : [ "obj-37", 0 ],
 									"source" : [ "obj-78", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-37", 0 ],
+									"source" : [ "obj-8", 0 ]
 								}
 
 							}
