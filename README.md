@@ -20,7 +20,6 @@ In improvisation, ideas come and go. It is up to the artist to develop the idea 
 
 **PIC**
 
-
 Beethoven took a motif consisting of two notes and turned it into arguably the most famous symphony ever.
 
 
@@ -29,32 +28,6 @@ Beethoven took a motif consisting of two notes and turned it into arguably the m
 I created 'gtive' to accelerate the idea-generation process. I am applying generative techniques on a set of inputs to create a set of unpredictable outputs. The key is randomness. By having stochastic processes triggering other stochastic processes, I end up with an idea that is fresh and unique.
 
 
-What can artists do better?
-
-
-
-
-
-
-
-What he created was human and creative.
-
-
-
-Yet, I'm on a hopeless pursuit of creating my own sound.
-
-left behind by the greatest musicians ever while attempting to express themselves through the past.
-
-I am fascinated with the idea of developing my own sound--creating an aural signature. Combining my extensive understanding of Western music theory, and
-
-I am on a musical journey to discover my own sound and in
-
-The idea for 'gtive' comes from the concept of creativity in music.
-
-
-In the pursuit of composing pieces of music that reflect both myself and my environment, the idea-generation process is tedious, and with the help of software, it could be expedited.
-
-My fascination for creating
-
 # Snippets
 
+http://www.michael-zhang.me/pages/gtive
